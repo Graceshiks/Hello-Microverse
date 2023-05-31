@@ -39,22 +39,15 @@ After you're finished please remove all the comments and instructions!
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -67,37 +60,6 @@ After you're finished please remove all the comments and instructions!
 - HTML
 - CSS
 
-### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li>HTML</li>
-    <li> CSS</li>
-  </ul>
-</details>
-
-
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
-
-- Added index.html flle.
-- Added style.css file.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,30 +93,6 @@ Run this commands:
    
 ```
 
-### Install
-
-Install this project with:
-
-
-
-### Usage
-
-To run the project, execute the following command:
-
->Open index.html using live server.
-
-### Run tests
-
->coming soon
-
-
-### Deployment
-
-
-> coming soon
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -174,8 +112,6 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] Add Javascript.
 - [ ] Add more styling.
 - [ ] Add add header and footer.
@@ -188,7 +124,8 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](git@github.com:Graceshiks/Hello-microverse/issues/).
+Feel free to check the [issues page](Graceshiks/Hello-Microverse/issues/).
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,7 +134,7 @@ Feel free to check the [issues page](git@github.com:Graceshiks/Hello-microverse/
 ## ⭐️ Show your support <a name="support"></a>
 
 
-If you like this project kindly give it a star.
+If you like this project kindly give it a star⭐️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -210,21 +147,6 @@ I would like to thank Leslie Gudo for the immense support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
